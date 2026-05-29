@@ -1,0 +1,15 @@
+{
+	"name": "uma26",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a49903aa-fc9b-43c6-85d2-2d536d69b73a",
+		"tenantId": "9606e01b-24d1-4b81-b794-1ee1572c34fb"
+	}
+}
