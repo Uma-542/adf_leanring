@@ -5,9 +5,9 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "C:\\Users\\umabh\\Downloads",
+			"host": "C:\\dataset",
 			"userId": "uma bhargavi",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzYTI5NWM4OC1jMzczLTRlODQtYWZjMC01NTA5ZGZhZGRkMGYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIwMmY3YWMxYi0xYmY3LTQzZGEtYTk4ZS02ZmMxZTI4M2RlMGIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "integrationRuntime1",
