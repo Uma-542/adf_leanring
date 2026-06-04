@@ -1,0 +1,19 @@
+{
+	"name": "SourceData",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SourceBlob",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"sheetName": "Employees",
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "sourcecontainer"
+			}
+		},
+		"schema": []
+	}
+}
